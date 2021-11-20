@@ -4,7 +4,7 @@ module Lifo
       super(capacity)
     end
 
-    def push(e : T) : Int32
+    def push(e : T) : Int
       if @capacity == -1 || size < @capacity
         @data << e
 
@@ -14,7 +14,7 @@ module Lifo
       end
     end
 
-    def push?(e : T) : Int32?
+    def push?(e : T) : Int?
       begin
         push(e)
       rescue OverflowError
