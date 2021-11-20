@@ -9,7 +9,7 @@ module Lifo
       end
     end
 
-    def size : Int32
+    def size : Int
       @data.size
     end
 
