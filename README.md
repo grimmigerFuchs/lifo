@@ -10,7 +10,7 @@ A library for working with LIFO like data structures (stacks, queues).
 
    ```yaml
    dependencies:
-     stack:
+     lifo:
        github: grimmigerFuchs/lifo
    ```
 
