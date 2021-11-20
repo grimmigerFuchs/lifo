@@ -1,0 +1,5 @@
+require "./lifo/version"
+require "./lifo/exception"
+require "./lifo/lifolike"
+require "./lifo/stack"
+require "./lifo/queue"

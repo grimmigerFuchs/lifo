@@ -1,0 +1,10 @@
+name: lifo
+description: A library for working with LIFO like data structures (stacks, queues).
+version: 0.1.0
+
+authors:
+  - Dominic Grimm <dominic.grimm@gmail.com>
+
+crystal: 1.2.2
+
+license: MIT
