@@ -1,6 +1,6 @@
 name: lifo
 description: A library for working with LIFO like data structures (stacks, queues).
-version: 0.1.2
+version: 0.1.3
 
 authors:
   - Dominic Grimm <dominic.grimm@gmail.com>

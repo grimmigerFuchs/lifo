@@ -16,5 +16,9 @@ module Lifo
     def empty? : Bool
       size == 0
     end
+
+    def to_a : Array(T)
+      @data
+    end
   end
 end
